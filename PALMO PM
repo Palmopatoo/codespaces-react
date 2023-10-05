@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>Tribute to PALMO</h1>
+      </header>
+    
+      <nav>
+        <ul>
+          <li><a href="#overview">Overview</a></li>
+          <li><a href="#achievements">Achievements</a></li>
+          <li><a href="#legacy">Legacy</a></li>
+          <li><a href="#quotes">Quotes</a></li>
+        </ul>
+      </nav>
+    
+      <main>
+        <section id="overview">
+          <h2>Overview</h2>
+          <p>PALMO was an exceptional individual who made a significant impact in their field. This section provides a brief overview of their life and contributions.</p>
+          <ul>PALMO was ambitious and respectful to all</ul>
+        </section>
+    
+        <section id="achievements">
+          <h2>Achievements</h2>
+          <p>This section highlights the notable achievements and milestones of PALMO.</p>
+         <li>Build an orphanage for the needy</li>
+         <li>employed youths at his proccessing company</li> 
+        </section>
+    
+        <section id="legacy">
+          <h2>Legacy</h2>
+          <p>PALMO's legacy continues to inspire and influence others. This section explores their lasting impact on the world.</p>
+         <li>Taught youths to be hardworking and thankful</li> 
+        </section>
+    
+        <section id="quotes">
+          <h2>Quotes</h2>
+          <p>Selected quotes by PALMO that reflect their wisdom and perspective.</p>
+          <ol>A friend in need is a friend indeed</ol>
+          <ol>Go out and change the world </ol>
+        </section>
+      </main>
+    
+      <footer>
+        <p>Created by PMO &copy; 2023</p>
+      </footer>
+    
+</body>
+</html>
